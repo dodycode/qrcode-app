@@ -1,4 +1,9 @@
 # qrcode-app
+QRCode Generator. Made for practice purposes.
+
+### Materials
+* [Vue JS](https://vuejs.org/)
+* [Vue Qrious](https://github.com/JounQin/vue-qrious)
 
 ## Project setup
 ```
